@@ -11,7 +11,7 @@ Step 2. 인덱싱
      2-3. 행과 열 동시 인덱싱
 ```
 
-**Ch 02. 차트 시각화, 시계열 분해, 자기상관분석 | [코드](https://github.com/sw-song/py_finance/blob/main/01_python_basic/02_visualization_decomposition_autocorrelation.ipynb)
+**Ch 02. 차트 시각화, 시계열 분해, 자기상관분석 | [코드](https://github.com/sw-song/py_finance/blob/main/01_python_basic/02_visualization_decomposition_autocorrelation.ipynb)**
 ```
 Step 1. 데이터 불러오기
 Step 2. 시각화
