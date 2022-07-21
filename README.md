@@ -35,7 +35,7 @@ Step 5. 자기상관분석
      5-3. 로그차분 데이터
 ```
 
-**Ch 03. 회귀 분석, 정규성 검정, 상관 분석, 쌍체 검정 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/03_statistical_analysis.ipynb)**
+**Ch 03. 회귀 분석, 정규성 검정, 상관 분석, 쌍체 검정 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/03_statistical_analysis.ipynb) | [성명](https://blog.naver.com/sw930601/222822718529)**
 > 기본적인 통계 분석 방법론을 경험합니다.
 ```
 Step 1. 데이터 불러오기
