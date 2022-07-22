@@ -50,5 +50,14 @@ Step 3. 통계 분석
      3-4. 쌍체 검정
 ```
 
-
-
+**Ch 04. LogisticRegression, RandomForest, XGBoost, LightGBM | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/04_machine_learning.ipynb) | [설명]**
+> 머신러닝 기법을 다뤄봅니다.
+```
+Step 1. 데이터 불러오기
+Step 2. 예측값 정의
+Step 3. 모델 인스턴스 생성 및 파이프라인 정의
+Step 4. 모델링 및 평가
+     4-1. 기본 데이터 모델링
+     4-2. 차분 데이터 모델링
+     4-3. 로그차분 데이터 모델링
+```
