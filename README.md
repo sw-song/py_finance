@@ -50,7 +50,7 @@ Step 3. 통계 분석
      3-4. 쌍체 검정
 ```
 
-**Ch 04. LogisticRegression, RandomForest, XGBoost, LightGBM | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/04_machine_learning.ipynb) | [설명]**
+**Ch 04. LogisticRegression, RandomForest, XGBoost, LightGBM | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/04_machine_learning.ipynb) | [설명](https://blog.naver.com/sw930601/222825538747)**
 > 머신러닝 기법을 다뤄봅니다.
 ```
 Step 1. 데이터 불러오기
