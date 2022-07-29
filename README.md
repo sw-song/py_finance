@@ -1,7 +1,7 @@
 # Py-Finance
 파이썬 금융 데이터 분석 스터디 `Py-Finance`의 학습 자료 저장소입니다.
 
-**Ch 00. 데이터 타입 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/00_data_type.ipynb)**
+**Ch 00. 데이터 타입 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/00_data_type.ipynb) | [설명](https://blog.naver.com/sw930601/222834125911)**
 > 데이터 분석을 위한 최소한의 자료형을 알아봅니다.
 ```
 Step 1. 단일 데이터 표현
