@@ -4,10 +4,18 @@
 **Ch 00. 데이터 타입 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/00_data_type.ipynb)**
 > 데이터 분석을 위한 최소한의 자료형을 알아봅니다.
 ```
-Step 1. Data Type
-     1-1. int, str
-     1-2. list, dict
-     1-3. numpy array, pandas dataframe
+Step 1. 단일 데이터 표현
+     1-1. int
+     1-2. float
+     1-3. str
+     1-4. bool
+Step 2. 다중 데이터 표현
+     2-1. list
+     2-2. dict
+     2-3. set
+Step 3. 벡터 및 행렬 표현
+     3-1. (numpy)array
+     3-2. (pandas)DataFrame, Series
 ```
 
 **Ch 01. 라이브러리, 데이터프레임, 인덱싱 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/01_library_and_indexing.ipynb) | [설명](https://blog.naver.com/sw930601/222803780138)**
