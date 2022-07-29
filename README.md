@@ -1,6 +1,15 @@
 # Py-Finance
 파이썬 금융 데이터 분석 스터디 `Py-Finance`의 학습 자료 저장소입니다.
 
+**Ch 00. 데이터 타입 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/00_data_type.ipynb) |
+> 데이터 분석을 위한 최소한의 자료형을 알아봅니다.
+```
+Step 1. Data Type
+     1-1. int, str
+     1-2. list, dict
+     1-3. numpy array, pandas dataframe
+```
+
 **Ch 01. 라이브러리, 데이터프레임, 인덱싱 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/01_library_and_indexing.ipynb) | [설명](https://blog.naver.com/sw930601/222803780138)**
 > 판다스 데이터프레임을 다뤄봅니다.
 ```
