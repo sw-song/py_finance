@@ -1,7 +1,18 @@
 # Py-Finance
 파이썬 금융 데이터 분석 스터디 `Py-Finance`의 학습 자료 저장소입니다.
 
-**Ch 00. 데이터 타입 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/00_data_type.ipynb) | [설명](https://blog.naver.com/sw930601/222834125911)**
+
+**Ch 01. 라이브러리, 데이터프레임, 인덱싱 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/01_library_and_indexing.ipynb) | [설명](https://blog.naver.com/sw930601/222803780138)**
+> 판다스 데이터프레임을 다뤄봅니다.
+```
+Step 1. 라이브러리
+Step 2. 인덱싱
+     2-1. 열 인덱싱
+     2-2. 행 인덱싱
+     2-3. 행과 열 동시 인덱싱
+```
+
+**Ch 01+a. (보충) 데이터 타입 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/00_data_type.ipynb) | [설명](https://blog.naver.com/sw930601/222834125911)**
 > 데이터 분석을 위한 최소한의 자료형을 알아봅니다.
 ```
 Step 1. 단일 데이터 표현
@@ -16,16 +27,6 @@ Step 2. 다중 데이터 표현
 Step 3. 벡터 및 행렬 표현
      3-1. (numpy)array
      3-2. (pandas)DataFrame, Series
-```
-
-**Ch 01. 라이브러리, 데이터프레임, 인덱싱 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/01_library_and_indexing.ipynb) | [설명](https://blog.naver.com/sw930601/222803780138)**
-> 판다스 데이터프레임을 다뤄봅니다.
-```
-Step 1. 라이브러리
-Step 2. 인덱싱
-     2-1. 열 인덱싱
-     2-2. 행 인덱싱
-     2-3. 행과 열 동시 인덱싱
 ```
 
 **Ch 02. 차트 시각화, 시계열 분해, 자기 상관 분석 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/02_visualization_decomposition_autocorrelation.ipynb) | [설명](https://blog.naver.com/sw930601/222811729646)**
@@ -50,6 +51,24 @@ Step 5. 자기상관분석
      5-1. 기본 종가 데이터
      5-2. 로그 데이터
      5-3. 로그차분 데이터
+```
+
+**Ch 02+a. (보충) matplotlib, time series | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/02a_matplotlib_ts_ac.ipynb)
+> 확장성을 위한 matplotlib subplots 응용
+```
+Step 1. Matplotlib
+     1-1. subplots
+     1-2. subplots with for-loop
+     1-3. fill_between
+     1-4. alpha
+     1-5. line plot + fill_between
+     1-6. axvline
+     1-7. axvspan
+Step 2. Time Series
+     2-1. get stock data
+     2-2. draw yearly stock trends with subplots
+     2-3. time series decomposition
+     2-4. auto-correlation, partial auto-correlation
 ```
 
 **Ch 03. 회귀 분석, 정규성 검정, 상관 분석, 쌍체 검정 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/03_statistical_analysis.ipynb) | [설명](https://blog.naver.com/sw930601/222822718529)**
