@@ -53,7 +53,7 @@ Step 5. 자기상관분석
      5-3. 로그차분 데이터
 ```
 
-**Ch 02+a. (보충) matplotlib, time series | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/02a_matplotlib_ts_ac.ipynb)
+**Ch 02+a. (보충) matplotlib, time series | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/02a_matplotlib_ts_ac.ipynb)**
 > 확장성을 위한 matplotlib subplots 응용
 ```
 Step 1. Matplotlib
