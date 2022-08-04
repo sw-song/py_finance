@@ -84,8 +84,8 @@ Step 3. 벡터 및 행렬 표현
 ```
 
 
-**Ch 02. matplotlib, time series | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/a_02_matplotlib_ts_ac.ipynb)**
-> subplots를 활용해 더 효율적으로 차트를 그려봅니다.
+**Ch 02. 반복문, 함수, 데이터 시각화 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/a_02_matplotlib_ts_ac.ipynb)**
+> subplots와 반복문, 함수를 사용해 더 효율적으로 차트를 그려봅니다.
 ```
 Step 1. Matplotlib
      1-1. subplots
