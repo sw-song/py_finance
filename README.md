@@ -1,7 +1,7 @@
 # Py-Finance
 파이썬 금융 데이터 분석 스터디 `Py-Finance`의 학습 자료 저장소입니다.
 
-## 기본 학습 자료 
+## 1. 기본 학습 자료 
 
 **Ch 01. 라이브러리, 데이터프레임, 인덱싱 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/01_library_and_indexing.ipynb) | [설명](https://blog.naver.com/sw930601/222803780138)**
 > 판다스 데이터프레임을 다뤄봅니다.
@@ -52,8 +52,8 @@ Step 3. 통계 분석
      3-4. 쌍체 검정
 ```
 
-**Ch 04. LogisticRegression, RandomForest, XGBoost, LightGBM | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/04_machine_learning.ipynb) | [설명](https://blog.naver.com/sw930601/222825538747)**
-> 머신러닝 기법을 다뤄봅니다.
+**Ch 04. 머신러닝 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/04_machine_learning.ipynb) | [설명](https://blog.naver.com/sw930601/222825538747)**
+> LogisticRegression, RandomForest, XGBoost, LightGBM을 활용해 AI 분류모델을 만들어봅니다.
 ```
 Step 1. 데이터 불러오기
 Step 2. 예측값 정의
@@ -64,7 +64,7 @@ Step 4. 모델링 및 평가
      4-3. 로그차분 데이터 모델링
 ```
 
-## 보충 자료
+## 2. 보충 자료
 
 **Ch 01. 데이터 타입 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/00_data_type.ipynb) | [설명](https://blog.naver.com/sw930601/222834125911)**
 > 데이터 분석을 위한 최소한의 자료형을 알아봅니다.
