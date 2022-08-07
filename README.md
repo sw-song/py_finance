@@ -84,7 +84,7 @@ Step 3. 벡터 및 행렬 표현
 ```
 
 
-**Ch 02. 반복문, 함수, 데이터 시각화 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/a_02_matplotlib_ts_ac.ipynb)**
+**Ch 02. 반복문, 함수, 데이터 시각화 | [코드](https://github.com/sw-song/py_finance/blob/main/tutorial/a_02_matplotlib_ts_ac.ipynb) | [설명](https://blog.naver.com/sw930601/222841921400)**
 > subplots와 반복문, 함수를 사용해 더 효율적으로 차트를 그려봅니다.
 ```
 Step 1. Matplotlib
