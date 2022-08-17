@@ -101,7 +101,7 @@ Step 2. Time Series
      2-4. auto-correlation, partial auto-correlation
 ```
 
-**[Appendix 03. 상관 분석, 회귀 분석](https://github.com/sw-song/py_finance/blob/main/tutorial/appendix/02/appendix_02.ipynb)**
+**[Appendix 03. 상관 분석, 회귀 분석](https://github.com/sw-song/py_finance/blob/main/tutorial/appendix/03/appendix_03.ipynb)**
 > 선형 관계에 대해 이해하고, 상관 분석과 회귀 분석의 차이를 확인합니다.
 ```
 Step 1. 선형 관계와 분석 방법론
