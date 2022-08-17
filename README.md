@@ -83,7 +83,6 @@ Step 3. 벡터 및 행렬 표현
      3-2. (pandas)DataFrame, Series
 ```
 
-
 **[Appendix 02. 반복문, 함수, 데이터 시각화](https://github.com/sw-song/py_finance/blob/main/tutorial/appendix/02/appendix_02.ipynb)**
 > subplots와 반복문, 함수를 사용해 더 효율적으로 차트를 그려봅니다.
 ```
@@ -100,4 +99,18 @@ Step 2. Time Series
      2-2. draw yearly stock trends with subplots
      2-3. time series decomposition
      2-4. auto-correlation, partial auto-correlation
+```
+
+**[Appendix 03. 상관 분석, 회귀 분석](https://github.com/sw-song/py_finance/blob/main/tutorial/appendix/02/appendix_02.ipynb)**
+> 선형 관계에 대해 이해하고, 상관 분석과 회귀 분석의 차이를 확인합니다.
+```
+Step 1. 선형 관계와 분석 방법론
+Step 2. 주가 데이터 추출
+Step 3. 상관 분석
+     3-1. 테슬라 주가와 애플 주가간 상관 분석
+     3-2. 테슬라 거래량과 애플 주가간 상관 분석
+     3-3. 랜덤한 숫자와 애플 주가간 상관 분석
+Step 4. 회귀 분석
+     4-1. MS 주가와 애플 주가간 회귀 분석
+     4-2. 전날 MS 종가와 다음날 거래량간 회귀 분석
 ```
