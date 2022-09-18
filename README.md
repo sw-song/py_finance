@@ -3,7 +3,7 @@
 
 ## **1. 기본 학습 자료**
 
-**[Ch 01. 라이브러리, 데이터프레임, 인덱싱](https://github.com/sw-song/py_finance/blob/main/tutorial/01/tutorial_01.ipynb)**
+**[Ch 01. 라이브러리, 데이터프레임, 인덱싱](https://github.com/sw-song/py_finance/blob/main/tutorials/01/tutorial_01.ipynb)**
 > 판다스 데이터프레임을 다뤄봅니다.
 ```
 Step 1. 라이브러리
@@ -13,7 +13,7 @@ Step 2. 인덱싱
      2-3. 행과 열 동시 인덱싱
 ```
 
-**[Ch 02. 차트 시각화, 시계열 분해, 자기 상관 분석](https://github.com/sw-song/py_finance/blob/main/tutorial/02/tutorial_02.ipynb)**
+**[Ch 02. 차트 시각화, 시계열 분해, 자기 상관 분석](https://github.com/sw-song/py_finance/blob/main/tutorials/02/tutorial_02.ipynb)**
 > 시계열 데이터에 대해 이해합니다.
 ```
 Step 1. 데이터 불러오기
@@ -37,7 +37,7 @@ Step 5. 자기상관분석
      5-3. 로그차분 데이터
 ```
 
-**[Ch 03. 회귀 분석, 정규성 검정, 상관 분석, 쌍체 검정](https://github.com/sw-song/py_finance/blob/main/tutorial/03/tutorial_03.ipynb)**
+**[Ch 03. 회귀 분석, 정규성 검정, 상관 분석, 쌍체 검정](https://github.com/sw-song/py_finance/blob/main/tutorials/03/tutorial_03.ipynb)**
 > 기본적인 통계 분석 방법론을 경험합니다.
 ```
 Step 1. 데이터 불러오기
@@ -52,7 +52,7 @@ Step 3. 통계 분석
      3-4. 쌍체 검정
 ```
 
-**[Ch 04. 머신러닝](https://github.com/sw-song/py_finance/blob/main/tutorial/04/tutorial_04.ipynb)**
+**[Ch 04. 머신러닝](https://github.com/sw-song/py_finance/blob/main/tutorials/04/tutorial_04.ipynb)**
 > LogisticRegression, RandomForest, XGBoost, LightGBM을 활용해 AI 분류모델을 만들어봅니다.
 ```
 Step 1. 데이터 불러오기
@@ -66,7 +66,7 @@ Step 4. 모델링 및 평가
 
 ## **2. 보충 자료**
 
-**[Appendix 01. 데이터 타입](https://github.com/sw-song/py_finance/blob/main/tutorial/appendix/01/appendix_01.ipynb)**
+**[Appendix 01. 데이터 타입](https://github.com/sw-song/py_finance/blob/main/tutorials/appendix/01/appendix_01.ipynb)**
 > 데이터 분석을 위한 최소한의 자료형을 알아봅니다.
 ```
 Step 1. 단일 데이터 표현
@@ -83,7 +83,7 @@ Step 3. 벡터 및 행렬 표현
      3-2. (pandas)DataFrame, Series
 ```
 
-**[Appendix 02. 반복문, 함수, 데이터 시각화](https://github.com/sw-song/py_finance/blob/main/tutorial/appendix/02/appendix_02.ipynb)**
+**[Appendix 02. 반복문, 함수, 데이터 시각화](https://github.com/sw-song/py_finance/blob/main/tutorials/appendix/02/appendix_02.ipynb)**
 > subplots와 반복문, 함수를 사용해 더 효율적으로 차트를 그려봅니다.
 ```
 Step 1. Matplotlib
@@ -101,7 +101,7 @@ Step 2. Time Series
      2-4. auto-correlation, partial auto-correlation
 ```
 
-**[Appendix 03. 상관 분석, 회귀 분석](https://github.com/sw-song/py_finance/blob/main/tutorial/appendix/03/appendix_03.ipynb)**
+**[Appendix 03. 상관 분석, 회귀 분석](https://github.com/sw-song/py_finance/blob/main/tutorials/appendix/03/appendix_03.ipynb)**
 > 선형 관계에 대해 이해하고, 상관 분석과 회귀 분석의 차이를 확인합니다.
 ```
 Step 1. 선형 관계와 분석 방법론
